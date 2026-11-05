@@ -1,0 +1,6 @@
+{
+  "name": "SKA NEXUS ERP",
+  "description": "Enterprise Business Control System & Supply Chain ERP for Ska Trading & Logistics - Multi-Depot Logistics, Sales, Procurement, Imports, Finance, and Approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
